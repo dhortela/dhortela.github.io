@@ -1,17 +1,17 @@
 body {
   background-color: white;
+  font-size: 100%;
 }
 h1 {
   color: white
   background-color: navy;
   border-radius: 25px;
   text-align: center;
-  font-family: verdana;
-  font-size: 100%;
+  font-family: 'Solway', serif;
+  font-size: 2.5em;
 }
 p {
-  font-family: courier;
-  font-size: 100%;
+  font-family: 'Roboto', sans-serif;
 }
 /* #p0 {
   font-family: courier;
